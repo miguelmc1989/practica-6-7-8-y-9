@@ -1,0 +1,6 @@
+C:\Users\Owner\cSharp Develop\SharpDevelopPortable\Data\SharpDevelop Projects\practica6,7,8,9\practica6,7,8,9\obj\Debug\practica6,7,8,9.csprojResolveAssemblyReference.cache
+C:\Users\Owner\cSharp Develop\SharpDevelopPortable\Data\SharpDevelop Projects\practica6,7,8,9\practica6,7,8,9\bin\Debug\practica6,7,8,9.exe
+C:\Users\Owner\cSharp Develop\SharpDevelopPortable\Data\SharpDevelop Projects\practica6,7,8,9\practica6,7,8,9\bin\Debug\practica6,7,8,9.pdb
+C:\Users\Owner\cSharp Develop\SharpDevelopPortable\Data\SharpDevelop Projects\practica6,7,8,9\practica6,7,8,9\bin\Debug\mysql.data.dll
+C:\Users\Owner\cSharp Develop\SharpDevelopPortable\Data\SharpDevelop Projects\practica6,7,8,9\practica6,7,8,9\obj\Debug\practica6,7,8,9.exe
+C:\Users\Owner\cSharp Develop\SharpDevelopPortable\Data\SharpDevelop Projects\practica6,7,8,9\practica6,7,8,9\obj\Debug\practica6,7,8,9.pdb
